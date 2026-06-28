@@ -66,11 +66,12 @@ My key interests include **OOPS, UI/UX Design, Web Development, and Backend APIs
 
 ---
 
-# 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sam1635&show_icons=true&hide_rank=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+## 🚀 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Sam1635?theme=dark&font=Baloo&ext=heatmap)
 
 </div>
 
